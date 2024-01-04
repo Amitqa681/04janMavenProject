@@ -22,6 +22,11 @@ public class Fibbonacciseries {
 
 			
 		}
-		System.out.print("Code working");
+		System.out.println(" ");
+		System.out.println("*****************************");
+		System.out.println("code worked");	
+		
+		
+		
 	}
 }
