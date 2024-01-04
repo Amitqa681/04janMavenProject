@@ -16,9 +16,12 @@ public class Fibbonacciseries {
 			b=c;
 			c=a;
 			
+				
+			
 			
 
 			
 		}
+		System.out.print("Code working");
 	}
 }
