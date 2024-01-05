@@ -7,6 +7,7 @@ public class Basic {
 		System.out.println("i");
 		System.out.println("am");
 		System.out.println("Amit");
+		
 
 	}
 
