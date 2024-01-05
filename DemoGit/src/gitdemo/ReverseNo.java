@@ -16,6 +16,7 @@ public class ReverseNo {
 			 num= num/10;
 		 }
 		System.out.println(rev);
+		System.out.println("this is reverse No.");
 
 	}
 
